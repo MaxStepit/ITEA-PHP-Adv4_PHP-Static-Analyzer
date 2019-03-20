@@ -12,19 +12,9 @@ Usage
 
 `$ ./bin/console class-analyze <className> ` - counts classes/interfaces/trait
 created by some developer in project.
-
-$php console class-analyze "Greeflas\StaticAnalyzer\PhpClassInfo"
-
-Class:      ClassInfo is Final
-Properties:
-    public:    0       
-    protected: 0    
-    private:   0
-Methods:
-    public:    1     (1 static)
-    protected: 0
-    private:   1     
-
+e.g.
+`php console class-analyze "Greeflas\StaticAnalyzer\PhpClassInfo"`
+ 
 Code style fixer
 ----------------
 

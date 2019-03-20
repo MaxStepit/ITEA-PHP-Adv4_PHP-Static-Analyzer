@@ -38,8 +38,6 @@ $ composer cs-fix
 License
 -------
 
-[![license](https://img.shields.io/github/license/greeflas/default-project.svg)](LICENSE)
-
 This project is released under the proprearity (LICENSE).
 
-Copyright (c) 2019, Vladimir Kuprienko
+Copyright (c) 2019, Maxim Gnatkovsky
